@@ -1,5 +1,5 @@
 
-## 2019 ICON DApp Development Contest with Baekseok University
+## 2019 ICON DApp Development Competition with Baekseok University
 ICON DApp Development 
 
 ## Term

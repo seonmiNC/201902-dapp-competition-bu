@@ -1,32 +1,32 @@
 
-## 2019 ICON DApp Compete with Baekseok University
-ICON DApp Development (내가 직접 개발하는 아이콘 DApp)
+## 2019 ICON DApp Development Contest with Baekseok University
+ICON DApp Development 
 
+## Term
+2019.01.28 to 2019.02.28
 
-## 2019.01.28 to 2019.02.28
-Collaboration of ICON with Baekseok University students <br>
+## Overview
+This is a project that Baekseok University students compete and develop DApps for five weeks on ICON. <br>
 
-
-## Contents
-This is a project in which Baekseok University students compete for five weeks to develop DApp of ICON. <br>
-
-## Schedule 
-1. Creating ICON DApp development plan <br>
-2. Separation of duties <br> 
+## Session 
+1. Create a plan for ICON DApp <br>
+2. Role Division <br> 
   - UI 
   - Front-End 
   - Back-End 
   - SCORE
-3. SCORE/ DApp development<br> 
-4. Development and feedback<br> 
-5. Final announcement<br>
+3. SCORE/ DApp development <br> 
+4. DApp internal review and feedback <br> 
+5. Result announcement <br>
 
 ## Mission 
-11 BaekSeok students are divided into three teams to develop SCORE, which is the core of DAPP including UI, Front-End and Back-End, and complete the DApp in 5 weeks.<br>
+11 BaekSeok University students are divided into three groups and they complete DApp Development including UI, Front-End, Back-End and SCORE within 5 weeks. <br>
 
-## Subject 
-Team1. Basketball game DApp with NFT <br>
-Team2. Crawl real-time Google Quick Search data DApp <br> 
-Team3. Fishing Game DApp that receive reward by choosing fish color <br>
+## Competition Subjects and Topics
+Subjects: ICON-based DApp
+Topics <br>
+Team1) Basketball game DApp with NFT <br>
+Team2) Real-Time Crawler for Google DApp <br>
+Team3) Fishing game DApp that receive reward by choosing fish color <br>
 
 ## The Winner 

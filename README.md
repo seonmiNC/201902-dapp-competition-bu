@@ -1,6 +1,6 @@
 
 ## 2019 ICON DApp Compete with Baekseok University
-ICON DApp that I develop (내가 직접 개발하는 아이콘 DApp)
+ICON DApp Development (내가 직접 개발하는 아이콘 DApp)
 
 
 ## 2019.01.28 to 2019.02.28

@@ -11,24 +11,18 @@ Collaboration of ICON with Baekseok University students <br>
 This is a project in which Baekseok University students compete for five weeks to develop DApp of ICON. <br>
 
 ## Schedule 
-1. Creating ICON DApp development plan 
-<br> 
+1. Creating ICON DApp development plan <br>
 2. Separation of duties <br> 
   - UI 
   - Front-End 
   - Back-End 
   - SCORE
-3. SCORE/ DApp development
-<br> 
-4. Development and feedback
-<br> 
-5. Final announcement
-<br>
+3. SCORE/ DApp development<br> 
+4. Development and feedback<br> 
+5. Final announcement<br>
 
 ## Mission 
-11 BaekSeok students are divided into three teams to develop SCORE, which is the core of DAPP including UI, Front-End and Back-End, and complete the DApp in 5 weeks.
-<br>
-
+11 BaekSeok students are divided into three teams to develop SCORE, which is the core of DAPP including UI, Front-End and Back-End, and complete the DApp in 5 weeks.<br>
 
 ## Subject 
 Team1. Basketball game DApp with NFT <br>
